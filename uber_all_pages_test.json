@@ -1,0 +1,24 @@
+{
+  "base_url": "https://www.uber.com/blog/engineering/backend/",
+  "blog_urls": [
+    "https://www.uber.com/blog/building-ubers-multi-cloud-secrets-management-platform/",
+    "https://www.uber.com/blog/how-uber-oci-and-ampere-co-optimized-oci-ampereone-m-a4-compute/",
+    "https://www.uber.com/blog/improving-mysql-cluster-uptime-part1/",
+    "https://www.uber.com/blog/starlark/",
+    "https://www.uber.com/blog/how-uber-processes-early-chargeback-signals/",
+    "https://www.uber.com/blog/automating-kerberos-keytab-rotation-at-uber/",
+    "https://www.uber.com/blog/scaling-uber-eats-for-everything/",
+    "https://www.uber.com/blog/slashing-ci-costs-at-uber/",
+    "https://www.uber.com/blog/improving-mysql-cluster-uptime-part2/",
+    "https://www.uber.com/blog/robust-database-backup-recovery-at-uber/",
+    "https://www.uber.com/blog/i-o-observability-for-ubers-massive-petabyte-scale-data-lake/",
+    "https://www.uber.com/blog/how-uber-serves-over-150-million-reads/",
+    "https://www.uber.com/blog/lightweight-office-infrastructure/",
+    "https://www.uber.com/blog/locking-down-the-fleet/",
+    "https://www.uber.com/blog/ceilometer-ubers-adaptive-benchmarking-framework/",
+    "https://www.uber.com/blog/controlling-the-rollout-of-large-scale-monorepo-changes/",
+    "https://www.uber.com/blog/ubers-strategy-to-upgrading-2m-spark-jobs/"
+  ],
+  "total_count": 17,
+  "crawled_at": "2025-12-15T16:31:08+02:00"
+}

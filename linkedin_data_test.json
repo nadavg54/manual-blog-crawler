@@ -1,0 +1,19 @@
+{
+  "base_url": "https://www.linkedin.com/blog/engineering/data",
+  "blog_urls": [
+    "https://www.linkedin.com/blog/engineering/data-management/scalable-automated-config-driven-data-validation",
+    "https://www.linkedin.com/blog/engineering/culture/career-stories-spotlighting-technical-program-management",
+    "https://www.linkedin.com/blog/engineering/responsible-ai/linkedin-s-responsible-ai-principles-help-meet-the-big-moments-i",
+    "https://www.linkedin.com/blog/engineering/infrastructure/powering-apache-pinot-ingestion-with-hoptimator",
+    "https://www.linkedin.com/blog/engineering/data-management/taking-charge-of-tables--introducing-openhouse-for-big-data-mana",
+    "https://www.linkedin.com/blog/engineering/architecture/how-linkedin-adopted-a-graphql-architecture-for-product-developm",
+    "https://www.linkedin.com/blog/engineering/ai/ai-at-linkedin-it-is-all-about-foundations",
+    "https://www.linkedin.com/blog/engineering/infrastructure/linkedin-s-graphql-journey-for-integrations-and-partnerships",
+    "https://www.linkedin.com/blog/engineering/data/evaluating-success-of-consumer-generative-ai-products",
+    "https://www.linkedin.com/blog/engineering/graph-systems/how-liquid-connects-everything-so-our-members-can-do-anything",
+    "https://www.linkedin.com/blog/engineering/culture/career-stories-four-engineering-careers-one-linkedin-",
+    "https://www.linkedin.com/blog/engineering/data-management/lakechime-a-data-trigger-service-for-modern-data-lakes"
+  ],
+  "total_count": 12,
+  "crawled_at": "2025-12-15T17:23:10+02:00"
+}
